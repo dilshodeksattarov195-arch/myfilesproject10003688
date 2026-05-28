@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcpdate",
+        "uuid": 35279408,
+        "checksum": "plextt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
